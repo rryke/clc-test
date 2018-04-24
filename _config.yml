@@ -16,7 +16,7 @@ exclude:
 - README.md
 baseurl: 
 url: http://localhost:3000
-smooth-scroll: false
+smooth-scroll: true
 plugins:
 - jekyll-archives
 jekyll-archives:
