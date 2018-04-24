@@ -1,10 +1,14 @@
 ---
+title: How to tell a story
+date: 2016-05-26 13:23:00 Z
+categories:
+- Storyline
+tags:
+- Storyline
+- How To
+- Tips
 layout: post
-title: "How to tell a story"
 tagline: Single Page
-date: 2016-05-26 13:23
-categories: [Storyline]
-tags: [Storyline, How To, Tips]
 image: img-03.jpg
 ---
 

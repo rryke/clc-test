@@ -1,10 +1,16 @@
 ---
+title: Flat polygon secrets
+date: 2016-05-15 10:43:00 Z
+categories:
+- Graphic Design
+tags:
+- Flat
+- Graphic
+- Design
+- Tips
+- Polygon
 layout: post
-title: "Flat polygon secrets"
 tagline: Single Page
-date: 2016-05-15 10:43
-categories: [Graphic Design]
-tags: [Flat, Graphic, Design, Tips, Polygon]
 image: img-02.jpg
 ---
 

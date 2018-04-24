@@ -1,10 +1,15 @@
 ---
+title: Lion Wallpaper Design
+date: 2016-04-11 12:51:00 Z
+categories:
+- Graphic Design
+tags:
+- Graphic
+- Design
+- Photoshop
+- Wallpaper
 layout: post
-title:  "Lion Wallpaper Design"
 tagline: Single Page
-date: 2016-04-11 12:51
-categories: [Graphic Design]
-tags: [Graphic, Design, Photoshop, Wallpaper]
 image: img-04.jpg
 ---
 
