@@ -36,44 +36,6 @@ header-focus-button:
 header-secondary-button:
   title: Discover More
   url: http://themeforest.net/user/gleesik
-email: your_email@example.com
-banner-link: https://themeforest.net/collections/6069390-sera
-youtube: "#"
-pinterest: "#"
-facebook: "#"
-twitter: "#"
-google-plus: "#"
-vimeo: "#"
-about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur
-    ridiculus mus. Donec quam felis, ultricies.
-  author-social-links:
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Sera Google Map
-map-text-location: Bucharest, Romania
-map-lat: 44.4267674
-map-lng: 26.102538399999958
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-  at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
-  Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu
-  neque et tincidunt.
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-  at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  Morbi id ornare ante.
 portfolio:
 - title: S<span class="thin">era</span> Style
   categories:
@@ -132,6 +94,44 @@ portfolio:
   - Logo
   image: img-09.jpg
   url: "#"
+email: your_email@example.com
+banner-link: https://themeforest.net/collections/6069390-sera
+youtube: "#"
+pinterest: "#"
+facebook: "#"
+twitter: "#"
+google-plus: "#"
+vimeo: "#"
+about-widget:
+  author-avatar: avatar-02.jpg
+  author-name: John Doe
+  author-tagline: Blog Author
+  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur
+    ridiculus mus. Donec quam felis, ultricies.
+  author-social-links:
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
+map-text: Sera Google Map
+map-text-location: Bucharest, Romania
+map-lat: 44.4267674
+map-lng: 26.102538399999958
+mailchimp:
+  user-id: REPLACEME
+  list-id: REPLACEME
+about-title: Welcome to Sera
+about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+  at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
+  Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu
+  neque et tincidunt.
+features-title: Features
+features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+  at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  Morbi id ornare ante.
 features:
 - title: Clean & Unique Design
   description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
