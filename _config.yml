@@ -74,30 +74,6 @@ features-title: Features
 features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
   at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
   Morbi id ornare ante.
-features:
-- title: Clean & Unique Design
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
-    consequat sed turpis in mattis.
-  icon: pe-7s-vector
-- title: Professional Support
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
-    consequat sed turpis in mattis.
-  icon: pe-7s-help2
-- title: Pixel Perfect
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
-    consequat sed turpis in mattis.
-  icon: pe-7s-airplay
-portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida
-  volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam.
-  Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
-portfolio-categories:
-- Websites
-- Logo
-- Graphic Design
-- Development
-- Video
-- Photography
 portfolio:
 - title: S<span class="thin">era</span> Style
   categories:
@@ -156,6 +132,30 @@ portfolio:
   - Logo
   image: img-09.jpg
   url: "#"
+features:
+- title: Clean & Unique Design
+  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
+    consequat sed turpis in mattis.
+  icon: pe-7s-vector
+- title: Professional Support
+  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
+    consequat sed turpis in mattis.
+  icon: pe-7s-help2
+- title: Pixel Perfect
+  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse
+    consequat sed turpis in mattis.
+  icon: pe-7s-airplay
+portfolio-title: Portfolio
+portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida
+  volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam.
+  Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-categories:
+- Websites
+- Logo
+- Graphic Design
+- Development
+- Video
+- Photography
 core-title: Core Features
 core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam
   ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus
